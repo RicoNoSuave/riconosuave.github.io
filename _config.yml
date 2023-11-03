@@ -8,7 +8,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   Bachelor of Science in Computer-Science (class of 2040)
   <br /><br />
   <a href="https://example.com/resume">View My Resume</a>
-  <br /><br />
+  <br />
   <a href="https://www.linkedin.com/in/Ricardo-Harris/">View My LinkedIn Profile</a>
 repository: "csci-csu/csci-portfolio"
 github_username:  RicoNoSuave # update with your username
