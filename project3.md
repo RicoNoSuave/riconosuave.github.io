@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Calendar
+Project 1 Title
 ===============
 
 -   **Class: CSCI-325: Object Oriented Programming** 
