@@ -10,6 +10,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <a href="https://example.com/resume">View My Resume</a>
   <br />
   <a href="https://www.linkedin.com/in/Ricardo-Harris/">View My LinkedIn Profile</a>
+  <br /><br /><br /><br /><br /><br /><br />
 repository: "csci-csu/csci-portfolio"
 github_username:  RicoNoSuave # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
