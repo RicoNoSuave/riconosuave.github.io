@@ -2,6 +2,7 @@ Portfolio
 =========
 ---
 ## About Me
+
 Coder. Cat dad. Car nut. I'm a full-stack developer focused on mastering my craft one language at a time. The projects in this portfolio are some of my favorite works from my time pursuing my B.S. in Computer Science.
 
 ---
@@ -70,36 +71,36 @@ Coder. Cat dad. Car nut. I'm a full-stack developer focused on mastering my craf
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Morality of Memes: The Ethical Enforcement of Consent](/papers/Morality_of_Memes.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI330 - Computer Architecture**  
+-   **Grade: 100%**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Unions in Tech: Securing Worker's Rights in Computing](/papers/Unions_in_Tech.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI325 - Object Oriented Programming** 
+-   **Grade: 100%**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Left not Right: The Ethics of Licensing in Computer Science](/papers/Left_not_Right.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI301 - Survey of Scripting Languages** 
+-   **Grade: 100%**
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Prometheus Website](/presentations/Prometheus%20Website.pptx)
 
 - **Class:** 
-- **Grade:**
+- **Grade: 100%**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [The ALU and You!](/presentations/The%20ALU%20and%20You!.pptx)
 
 - **Class:** 
-- **Grade:**
+- **Grade: 100%**
 
 ---
 <br />
