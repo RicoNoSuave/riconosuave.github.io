@@ -39,7 +39,7 @@ Coder. Cat dad. Car nut. I'm a full-stack developer focused on mastering my craf
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <br />
 <br />
-
+     
 ---
 
 ## Programming Projects
