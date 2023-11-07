@@ -91,15 +91,15 @@ Ethics Papers
 Presentations
 -------------
 
-### [Prometheus Website User Testing](/presentations/Prometheus%20Website%20User%20Testing.pdf)
-watch [here!](/presentations/Prometheus%20Website%20User%20Testing.mp4)
+### [Prometheus Website User Testing](/presentations/Prometheus_Website_User_Testing.pdf)
+watch [here!](/presentations/Prometheus_Website_User_Testing.mp4)
 
 - **Class: CSCI 434 - Human-Computer Interaction** 
 - **Grade: 100%**
 
 
-### [The ALU and You!](/presentations/The%20ALU%20and%20You!.pdf)
-watch [here!](/presentations/The%20ALU%20and%20You!.mp4)
+### [The ALU and You!](/presentations/The_ALU_and_You.pdf)
+watch [here!](/presentations/The_ALU_and_You.mp4)
 
 - **Class: CSCI 330 - Computer Architecture** 
 - **Grade: 100%**
