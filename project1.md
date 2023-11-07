@@ -6,7 +6,7 @@ Calendar
 -   **Class: CSCI 325 - Object-Oriented Programming** 
 -   **Grade:** 
 -   **Language(s): Java** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/RicoNoSuave/CSCI325-Object_Oriented_Programming)  
+-   **Source Code Repository:** [CSCI 325 - Object-Oriented Programming](https://github.com/RicoNoSuave/CSCI325-Object_Oriented_Programming)  
     (Please [email me](mailto:Ricardo.E.Harris@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -15,17 +15,13 @@ This is a Personal Calendar project built in Java to demonstrate a mastery of pr
 
 ## How to compile and run the program
 
-How to compile and run the project:
-
-Make sure you have the Java Development Kit on your device, then run the following:
+To compile and run the program, make sure you have the Java Development Kit installed on your device, then run the following:
 
 ```bash
 cd ./Calendar;
 javac *;
 java CLI;
 ```
-
-Alternatively, load the code into your preferred Java Development Environment and run!
 
 ## UI Design
 
@@ -48,5 +44,9 @@ Fig 5. Method to find and edit appointments and events.
 
 ![screenshot](/images/OOP_Calendar/Quit.jpg)  
 Fig 6. Feedback when quitting.
+
+## 3. Additional Considerations
+
+If you would rather use a pre-existing Java Development Environment, copy the files of this project to a new directory to run.
 
 [Back to Portfolio](./)

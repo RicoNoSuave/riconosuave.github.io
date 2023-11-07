@@ -4,9 +4,9 @@ UDP Client/Server
 ===============
 
 -   **Class: CSCI 330 - Applied Networking** 
--   **Grade: 95** 
+-   **Grade: 100** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/RicoNoSuave/CSCI330_Applied_Networking)  
+-   **Source Code Repository:** [CSCI 330 - Applied Networking](https://github.com/RicoNoSuave/CSCI330_Applied_Networking)  
     (Please [email me](mailto:Ricardo.E.Harris@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -15,9 +15,7 @@ This project is divided into a client and server that communicate over a network
 
 ## How to compile and run the program
 
-How to compile and run the project:
-
-Make sure that you use two separate terminals when operating on the same device, and that there is a .txt file on the device running the Client program.
+To compile and run this project, make sure that you use two separate terminals when operating on the same device, and that there is a .txt file on the device running the Client program.
 
 ```bash
 g++ Client.cpp -o Client;
