@@ -39,7 +39,8 @@ Coder. Cat dad. Car nut. I'm a full-stack developer focused on mastering my craf
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <br />
 <br />
-     
+
+
 ---
 
 ## Programming Projects
@@ -73,17 +74,17 @@ Ethics Papers
 
 ### [Morality of Memes: The Ethical Enforcement of Consent](/papers/Morality_of_Memes.pdf)
 
--   **Class: CSCI330 - Computer Architecture**  
+-   **Class: CSCI 330 - Computer Architecture**  
 -   **Grade: 100%**
 
 ### [Unions in Tech: Securing Worker's Rights in Computing](/papers/Unions_in_Tech.pdf)
 
--   **Class: CSCI325 - Object Oriented Programming** 
+-   **Class: CSCI 325 - Object Oriented Programming** 
 -   **Grade: 100%**
 
 ### [Left not Right: The Ethics of Licensing in Computer Science](/papers/Left_not_Right.pdf)
 
--   **Class: CSCI301 - Survey of Scripting Languages** 
+-   **Class: CSCI 301 - Survey of Scripting Languages** 
 -   **Grade: 100%**
 
 ---
@@ -91,18 +92,19 @@ Ethics Papers
 Presentations
 -------------
 
-### [Prometheus Website](/presentations/Prometheus%20Website.pptx)
+### [Prometheus Website User Testing](/presentations/Prometheus%20Website%20User%20Testing.pdf)
+watch [here!](/presentations/Prometheus%20Website%20User%20Testing.mp4)
 
-- **Class:** 
+- **Class: CSCI 434 - Human-Computer Interaction** 
 - **Grade: 100%**
 
 
-### [The ALU and You!](/presentations/The%20ALU%20and%20You!.pptx)
+### [The ALU and You!](/presentations/The%20ALU%20and%20You!.pdf)
+watch [here!](/presentations/The%20ALU%20and%20You!.mp4)
 
-- **Class:** 
+- **Class: CSCI 330 - Computer Architecture** 
 - **Grade: 100%**
 
 ---
-<br />
-<p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
+<p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/CSCI -portfolio">CSU-CS</a></p>
 <!-- Remove above link if you don't want to attributive -->
