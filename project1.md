@@ -3,7 +3,7 @@
 Calendar
 ===============
 
--   **Class: CSCI-325: Object Oriented Programming** 
+-   **Class: CSCI 325 - Object-Oriented Programming** 
 -   **Grade:** 
 -   **Language(s): Java** 
 -   **Source Code Repository:** [features/mastering-markdown](https://github.com/RicoNoSuave/CSCI325-Object_Oriented_Programming)  
@@ -29,23 +29,24 @@ Alternatively, load the code into your preferred Java Development Environment an
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+When running the program, you will begin at the top menu of the calendar (see Fig 1). From the menu, you can create an event (see Fig 2) or an appointment (see Fig 3). The menus for each are quite similar to represent the relationship between events and appointments: An appointment is any event with a start and end time. For instance, your birthday or a holiday is an event, whereas a party to celebrate these occasions would be an appointment. To create these objects, you need a calendar to save the event to, a title for the object, a date, a description, and a location, plus a start and end time in the case of an appointment (see Fig 2 and 3). After creating an event or appointment, you can search for a list of objects by name (see Fig 4) or by date (see Fig 5). After finding an event or appointment, you are able to edit or delete said object (see Fig 5). Lastly, when finished you can quit (see Fig 6).
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![screenshot](/images/OOP_Calendar/Menu.jpg)  
+Fig 1. The launch menu.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](/images/OOP_Calendar/Create_Event.jpg)  
+Fig 2. Menu to create an appointment.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](/images/OOP_Calendar/Create_Appointment.jpg)  
+Fig 3. Menu to create an event.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](/images/OOP_Calendar/Find_Appointment.jpg)  
+Fig 4. Output when searching by title.
 
-## 3. Additional Considerations
+![screenshot](/images/OOP_Calendar/Access_Edit_Appointment.jpg)  
+Fig 5. Method to find and edit appointments and events.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![screenshot](/images/OOP_Calendar/Quit.jpg)  
+Fig 6. Feedback when quitting.
 
 [Back to Portfolio](./)

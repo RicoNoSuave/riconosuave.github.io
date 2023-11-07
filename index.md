@@ -47,14 +47,14 @@ and more!
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line "GitHub Access".
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Calendar Command Line Interface | CSCI 325 - Object Oriented Programming](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Calendar Menu](/images/OOP_Calendar/Menu.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [UDP Client/Server | CSCI 330 - Applied Networking](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Files](/images/Networking_UDP/Initial.jpg)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
