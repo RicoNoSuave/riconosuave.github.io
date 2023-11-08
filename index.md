@@ -9,7 +9,7 @@ Coder. Cat dad. Car nut. I'm a full-stack developer focused on mastering my craf
 <details>
 	<summary>
 		<b>
-			Read more about my journey here:<br />
+			Read more about my journey here:
 		</b>
 	</summary>
 	<p>
