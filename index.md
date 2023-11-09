@@ -16,7 +16,7 @@ Coder. Cat dad. Car nut. I'm a full-stack developer focused on mastering my craf
 		&emsp;&emsp;When I first started coding, I was just an auto-glass installer with a passion for Skyrim. I was 27, I finally had a decent PC, and I had ideas for improvements, so I began to learn how to mod the game to meet those goals. Over the following 3 years, I learned about directories, file types, and managing installations. When the Covid-19 pandemic hit, I had come to realize that I had a passion for computing, so I enrolled for my A.S. in Network Systems Management while working full time. When I started networking, it clicked in me that I could do this. I finished my A.S. in a single year, graduating with a 4.0 exactly one year after starting. Near the end of that process, I came upon the opportunity to study for my B.S. in Computer Science, and again, I knew I could do it, so I did. Just two and a half years later, I have my B.S. in Computer Science. Over that time I sought to develop as many skills as possible, taking on projects above and beyond my capabilities to push myself. When I had projects in HTML, I studied MERN and MEAN stacks. When I had the opportunity to begin my Senior Project, I went out of my way to choose Rust as my primary language, because learning something beyond what was taught was that important to me. That's all to say nothing of my private study of Python, Typescript, C and C#, even Perl. I am passionate about this; Software Development is my dream, and I will not stop pursuing and honing my skills.
 	</p>
 </details>
-&nbsp;
+
 ---
 
 ## 🏗️ Languages and Frameworks
@@ -50,8 +50,8 @@ Coder. Cat dad. Car nut. I'm a full-stack developer focused on mastering my craf
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <br />
-&nbsp;
-<br />
+
+and more!
 
 ---
 
