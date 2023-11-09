@@ -3,10 +3,10 @@
 Prometheus Website
 ===============
 
--   **Class: CSCI-434 - Human-Computer Interaction** 
--   **Grade: 100** 
+-   **Class: CSCI 434 - Human-Computer Interaction** 
+-   **Grade: 100%** 
 -   **Language(s): Java** 
--   **Source Code Repository:** [CSCI-434 - Human-Computer Interaction](https://github.com/RicoNoSuave/CSCI434-Human_Computer_Interaction)  
+-   **Source Code Repository:** [CSCI 434 - Human-Computer Interaction](https://github.com/RicoNoSuave/CSCI434-Human_Computer_Interaction)  
     (Please [email me](mailto:Ricardo.E.Harris@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -29,36 +29,36 @@ npm start;
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+As a Forum application, the first thing you should do is log in as the administrator (see Fig 1). After logging in as the administrator, the navigation bar will load the "Account" and "Management" buttons. Navigate to the Management page to create moderator accounts, delete users, and create updates on the project to display to visitors (see Fig 2). Afterwards, until you shut down the server, you can view updates in the update page regardless of login status (see Fig 3). You can also go to the "Download" page to download test text files from links for operating systems (see Fig 4).
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+To continue demonstration, I would recommend logging out as the administrator, then creating your own account (see Fig 5). The application will then take you to the Forum page. You can navigate to the Account page to edit any details about your account (see Fig 6). Alternatively, you can stay on the Forum page to create and view threads (see Fig 7). If you wish to comment on a thread, just click on the thread to bring up the thread page (see Fig 8). On the forum, you can see how many comments there are, as well as how many likes (see Fig 9).
 
 ![screenshot](/images/Prometheus_Site/Login_Admin.jpg)  
-Fig 1. The login screen with admin credentials.
+Fig 1. The login screen with admin credentials (admin@admin.com, password).
 
 ![screenshot](/images/Prometheus_Site/Management.jpg)  
-Fig 2. Example output after input is processed.
+Fig 2. The Management page.
 
 ![screenshot](/images/Prometheus_Site/New_Update.jpg)  
-Fig 3. Feedback when an error occurs.
+Fig 3. Loaded update.
 
 ![screenshot](/images/Prometheus_Site/Download.jpg)  
-Fig 1. The launch screen
+Fig 4. The Download page.
 
 ![screenshot](/images/Prometheus_Site/New_User.jpg)  
-Fig 2. Example output after input is processed.
+Fig 5. Registration example.
 
 ![screenshot](/images/Prometheus_Site/Account.jpg)  
-Fig 3. Feedback when an error occurs.
+Fig 6. The Account page.
 
 ![screenshot](/images/Prometheus_Site/New_Thread.jpg)  
-Fig 1. The launch screen
-
-![screenshot](/images/Prometheus_Site/Post_Reply.jpg)  
-Fig 2. Example output after input is processed.
+Fig 7. Forum to create and view Threads.
 
 ![screenshot](/images/Prometheus_Site/Reply.jpg)  
-Fig 3. Feedback when an error occurs.
+Fig 8. Reply to a thread.
+
+![screenshot](/images/Prometheus_Site/Post_Reply.jpg)  
+Fig 9. Display after commenting and liking.
 
 ## 3. Additional Considerations
 

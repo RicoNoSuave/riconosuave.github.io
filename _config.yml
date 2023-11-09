@@ -12,7 +12,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <a href="https://www.linkedin.com/in/Ricardo-Harris/">View My LinkedIn Profile</a>
 repository: "csci-csu/csci-portfolio"
 github_username:  RicoNoSuave # update with your username
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-4LHEY581DN # your Google Analytics tracking ID here
 
 # Build setting
 theme: jekyll-theme-minimal

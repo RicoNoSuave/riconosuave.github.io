@@ -70,14 +70,14 @@ and more!
 ![Files](/images/Networking_UDP/Initial.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
-
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
 ### [Calendar Command Line Interface | CSCI 325 - Object-Oriented Programming](project3)
 
 ![Calendar Menu](/images/OOP_Calendar/Menu.jpg)
+
+---
+### [HTML Parser | CSCI 315 - Data Structures](project1)
+
+![Parser Output](./images/HTML_Parser/Output.jpg)
 
 ---
 

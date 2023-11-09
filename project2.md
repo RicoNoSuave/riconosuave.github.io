@@ -3,10 +3,10 @@
 UDP Client/Server
 ===============
 
--   **Class: CSCI 330 - Applied Networking** 
--   **Grade: 100** 
+-   **Class: CSCI 332 - Applied Networking** 
+-   **Grade: 100%** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [CSCI 330 - Applied Networking](https://github.com/RicoNoSuave/CSCI330_Applied_Networking)  
+-   **Source Code Repository:** [CSCI 332 - Applied Networking](https://github.com/RicoNoSuave/CSCI330_Applied_Networking)  
     (Please [email me](mailto:Ricardo.E.Harris@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description

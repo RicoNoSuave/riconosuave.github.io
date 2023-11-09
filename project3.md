@@ -4,7 +4,7 @@ Calendar
 ===============
 
 -   **Class: CSCI 325 - Object-Oriented Programming** 
--   **Grade:** 
+-   **Grade: 90%** 
 -   **Language(s): Java** 
 -   **Source Code Repository:** [CSCI 325 - Object-Oriented Programming](https://github.com/RicoNoSuave/CSCI325-Object_Oriented_Programming)  
     (Please [email me](mailto:Ricardo.E.Harris@gmail.com?subject=GitHub%20Access) to request access.)

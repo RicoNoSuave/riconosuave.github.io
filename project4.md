@@ -1,51 +1,35 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+HTML Parser
 ===============
 
--   **Class: CSCI-325: Object Oriented Programming** 
--   **Grade:** 
--   **Language(s): Java** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/RicoNoSuave/CSCI325-Object_Oriented_Programming)  
+-   **Class: CSCI 315 - Object Oriented Programming** 
+-   **Grade: 95%** 
+-   **Language(s): C++** 
+-   **Source Code Repository:** [CSCI 315 - Data Structures](https://github.com/RicoNoSuave/CSCI315-Data_Structures)  
     (Please [email me](mailto:Ricardo.E.Harris@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This is a Personal Calendar project built in Java to demonstrate a mastery of principles of Object Oriented Programming. The project is built to allow users to create, read, update, and delete time-based appointments and day-based events, including names, dates, and descriptions, as well as start and end times for time-based appointments. Furthermore, time-based appointments are validated against existing appointments to prevent overlap. This program is built as a command-line interface.
+This is an HTML Parser project built in C++ to demonstrate a mastery of principles of Data Structures in programming. This project takes a folder of HTML files and tells the user if each page is balanced and how many unique, valid sites can be visited from said page.
 
 ## How to compile and run the program
 
-How to compile and run the project:
-
-Make sure you have the Java Development Kit on your device, then run the following:
+The file has a makefile, so to compile and run the project, run:
 
 ```bash
-cd ./Calendar;
-javac *;
-java CLI;
+make run;
 ```
-
-Alternatively, load the code into your preferred Java Development Environment and run!
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+When running the program, the command line will update the user which page is being parsed at any given time. Afterwards, there will be a rudimentary table listing the pages, whether they are balanced, and the number of unique viable links in that page (see Fig 1).
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](./images/HTML_Parser/Output.jpg)  
+Fig 1. Program Output.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If you wish to add more pages to the parser for checking, just add them to the ```pages/``` directory, and write the titles into the makefile under the ```given:``` flag.
 
 [Back to Portfolio](./)
