@@ -31,8 +31,6 @@ npm start;
 
 As a Forum application, the first thing you should do is log in as the administrator (see Fig 1). After logging in as the administrator, the navigation bar will load the "Account" and "Management" buttons. Navigate to the Management page to create moderator accounts, delete users, and create updates on the project to display to visitors (see Fig 2). Afterwards, until you shut down the server, you can view updates in the update page regardless of login status (see Fig 3). You can also go to the "Download" page to download test text files from links for operating systems (see Fig 4).
 
-To continue demonstration, I would recommend logging out as the administrator, then creating your own account (see Fig 5). The application will then take you to the Forum page. You can navigate to the Account page to edit any details about your account (see Fig 6). Alternatively, you can stay on the Forum page to create and view threads (see Fig 7). If you wish to comment on a thread, just click on the thread to bring up the thread page (see Fig 8). On the forum, you can see how many comments there are, as well as how many likes (see Fig 9).
-
 ![screenshot](/images/Prometheus_Site/Login_Admin.jpg)  
 Fig 1. The login screen with admin credentials (admin@admin.com, password).
 
@@ -44,6 +42,8 @@ Fig 3. Loaded update.
 
 ![screenshot](/images/Prometheus_Site/Download.jpg)  
 Fig 4. The Download page.
+
+To continue demonstration, I would recommend logging out as the administrator, then creating your own account (see Fig 5). The application will then take you to the Forum page. You can navigate to the Account page to edit any details about your account (see Fig 6). Alternatively, you can stay on the Forum page to create and view threads (see Fig 7). If you wish to comment on a thread, just click on the thread to bring up the thread page (see Fig 8). On the forum, you can see how many comments there are, as well as how many likes (see Fig 9).
 
 ![screenshot](/images/Prometheus_Site/New_User.jpg)  
 Fig 5. Registration example.
