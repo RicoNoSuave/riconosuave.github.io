@@ -67,7 +67,7 @@ and more!
 ---
 ### [UDP Client/Server | CSCI 330 - Applied Networking](project2)
 
-![Files](/images/Networking_UDP/Initial.jpg)
+![Files](/images/Networking_UDP/Client.jpg)
 
 ---
 ### [Calendar Command Line Interface | CSCI 325 - Object-Oriented Programming](project3)
