@@ -16,17 +16,26 @@ The React application also links to the compiled Senior Project documentation ([
 
 ## How to compile and run the program
 
-How to compile and run the project:
-
-Make sure you have the Java Development Kit on your device, then run the following:
-
-```bash
-cd ./Calendar;
-javac *;
-java CLI;
+To compile this project, it will require several pre-existing conditions. First, <a href="https://www.rust-lang.org/tools/install">install Rust</a>, 
+<a href="https://docs.npmjs.com/downloading-and-installing-node-js-and-npm">NPM, and Node</a>. To compile the Prometheus newsreader application, download the Prometheus/ file from src, then run:
 ```
+cargo run;
+```
+To run the web application, create a react project using:
+```
+npx create-react-app <project name>;
+```
+Install react-router-dom in your project by:
+```
+cd <project name>;
+npm install react-router-dom;
+```
+Then copy the prometheus_website/public/ and prometheus_website/src/ files from the src folder to your react application. Lastly, run:
+```
+npm start;
+```
+To publish your copy of the web application to your default port. Navigate to localhost:xxxx and enjoy!
 
-Alternatively, load the code into your preferred Java Development Environment and run!
 
 ## UI Design
 
