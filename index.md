@@ -60,22 +60,27 @@ and more!
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line "GitHub Access".
 
 ---
-### [Prometheus Website | CSCI 434 - Human-Computer Interaction](project1)
+### [Prometheus | CSU Senior Project](project1)
 
 ![Forum](/images/Prometheus_Site/New_Thread.jpg)
 
 ---
-### [UDP Client/Server | CSCI 330 - Applied Networking](project2)
+### [Prometheus Website | CSCI 434 - Human-Computer Interaction](project2)
+
+![Forum](/images/Prometheus_Site/New_Thread.jpg)
+
+---
+### [UDP Client/Server | CSCI 330 - Applied Networking](project3)
 
 ![Files](/images/Networking_UDP/Client.jpg)
 
 ---
-### [Calendar Command Line Interface | CSCI 325 - Object-Oriented Programming](project3)
+### [Calendar Command Line Interface | CSCI 325 - Object-Oriented Programming](project4)
 
 ![Calendar Menu](/images/OOP_Calendar/Menu.jpg)
 
 ---
-### [HTML Parser | CSCI 315 - Data Structures](project1)
+### [HTML Parser | CSCI 315 - Data Structures](project5)
 
 ![Parser Output](./images/HTML_Parser/Output.jpg)
 
