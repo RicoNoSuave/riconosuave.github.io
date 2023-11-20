@@ -4,7 +4,9 @@ Portfolio
 
 ## About Me
 
-Coder. Cat dad. Car nut. I'm a full-stack developer focused on mastering my craft one language at a time. The projects in this portfolio are some of my favorite works from my time pursuing my B.S. in Computer Science.
+Coder. Cat dad. Car nut.
+
+I'm a full-stack developer focused on mastering my craft one language at a time. The projects in this portfolio are some of my favorite works from my time pursuing my B.S. in Computer Science.
 
 <details>
 	<summary>
