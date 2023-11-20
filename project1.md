@@ -3,10 +3,10 @@
 Project 1 Title
 ===============
 
--   **Class: CSCI-325: Object Oriented Programming** 
+-   **Class: CSU Senior Project** 
 -   **Grade:** 
--   **Language(s): Java** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/RicoNoSuave/CSCI325-Object_Oriented_Programming)  
+-   **Language(s): Rust, Javascript, HTML** 
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/RicoNoSuave/CSU_Senior_Project)  
     (Please [email me](mailto:Ricardo.E.Harris@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
