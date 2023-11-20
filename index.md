@@ -19,6 +19,7 @@ I'm a full-stack developer focused on mastering my craft one language at a time.
 	</p>
 </details><br />
 “A good programmer is someone who always looks both ways before crossing a one-way street.” - Doug Linder
+
 ---
 
 ## 🏗️ Languages and Frameworks
