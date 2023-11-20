@@ -65,7 +65,7 @@ and more!
 ---
 ### [Prometheus | CSU Senior Project](project1)
 
-![Forum](/images/Prometheus_Site/New_Thread.jpg)
+![Forum](/images/Prometheus/running.png)
 
 ---
 ### [Prometheus Website | CSCI 434 - Human-Computer Interaction](project2)
