@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+<img src="./images/Prometheus/prometheus_logo.png" style="width:30px"> Prometheus
 ===============
 
 -   **Class: CSU Senior Project** 
