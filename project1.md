@@ -6,7 +6,7 @@ Project 1 Title
 -   **Class: CSU Senior Project** 
 -   **Grade:** 
 -   **Language(s): Rust, Javascript, HTML** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/RicoNoSuave/CSU_Senior_Project)  
+-   **Source Code Repository:** [CSU Senior Project](https://github.com/RicoNoSuave/CSU_Senior_Project)  
     (Please [email me](mailto:Ricardo.E.Harris@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
