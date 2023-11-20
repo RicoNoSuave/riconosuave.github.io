@@ -50,18 +50,38 @@ Fig 2. The Download page.
 ![Instructions](images/Prometheus/Useage.png)  
 Fig 3. Useage instructions on the Download page.
 
+When using the Prometheus Application for the first time, you need to have an API Key from https://newsapi.org/ (see Fig 4).
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![Api Key](images/Prometheus/first_start.png)  
+Fig 4. The launch screen before entering an API Key.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+Once you have an API entered, you will have access to the full application (see Fig 5). When using Prometheus, you can change topics (see Fig 6), access articles (see Fig 7), and search for specific articles (see Fig 8).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![Running](images/Prometheus/running.png)  
+Fig 5. Prometheus running as normal.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![Topics](images/Prometheus/headlines.png)  
+Fig 6. Changing news topics.
+
+![Articles](images/Prometheus/article.png)  
+Fig 7. A rendered article.
+
+![Search](images/Prometheus/search.png)  
+Fig 8. Search screen.
+
+By clicking the settings button in the top right (see Fig 9), you can change to the top news in a different country (see Fig 10), change the text size (see Fig 11), and link back to the Homepage. Lastly, to invert the color scheme, click the night-mode button on the right (see Fig 12).
+
+![Settings](images/Prometheus/settings.png)  
+Fig 9. Settings.
+
+![Country](images/Prometheus/country.png)  
+Fig 10. Choose your country.
+
+![Country](images/Prometheus/text_size.png)  
+Fig 11. Choose your text size.
+
+![Night Mode](images/Prometheus/night_mode.png)  
+Fig 12. Night mode.
 
 ## Additional Considerations
 
