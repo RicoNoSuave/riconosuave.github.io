@@ -6,7 +6,7 @@ UDP Client/Server
 -   **Class: CSCI 332 - Applied Networking** 
 -   **Grade: 100%** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [CSCI 332 - Applied Networking](https://github.com/RicoNoSuave/CSCI330_Applied_Networking)  
+-   **Source Code Repository:** [CSCI 332 - Applied Networking](https://github.com/RicoNoSuave/CSCI332-Applied_Networking_Project)  
     (Please [email me](mailto:Ricardo.E.Harris@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
