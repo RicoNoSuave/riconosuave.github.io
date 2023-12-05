@@ -112,6 +112,12 @@ Ethics Papers
 Presentations
 -------------
 
+### [Prometheus Project Presentation](/presentations/Prometheus_Presentation.pdf)
+watch [here!](/presentations/Prometheus_Presentation.mp4)
+
+- **Class: CSCI 434 - Human-Computer Interaction** 
+- **Grade: 100%**
+
 ### [Prometheus Website User Testing](/presentations/Prometheus_Website_User_Testing.pdf)
 watch [here!](/presentations/Prometheus_Website_User_Testing.mp4)
 
