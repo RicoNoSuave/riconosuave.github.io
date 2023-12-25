@@ -3,12 +3,8 @@
 title: Ricardo Harris # your name here
 logo: "/images/Self/self.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br /> elements if you don't need line breaks)
-  CSCI 496: Senior Portfolio<br /><br />
-  In partial fulfillment of the requirements for the degree of
-  Bachelor of Science in Computer-Science (class of 2023)
-  <br /><br />
-  <a href="pdf/Resume.pdf">View My Resume</a>
-  <br /><br />
+  Coder. Cat Dad. Car Nut.<br />
+  <a href="pdf/Resume.pdf">View My Resume</a><br />
   <a href="https://www.linkedin.com/in/Ricardo-Harris/">View My LinkedIn Profile</a>
 repository: "csci-csu/csci-portfolio"
 github_username:  RicoNoSuave # update with your username
