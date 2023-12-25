@@ -114,7 +114,7 @@ Presentations
 -------------
 
 ### [Prometheus Project Presentation](/presentations/Prometheus_Presentation.pdf)
-watch [here!]((https://www.youtube.com/watch?v=PxdCKYLUaLY&list=PLQX6zsXm88a2xmYZmv2DPMdrvniJ2S-jd&index=4)
+watch [here!](https://www.youtube.com/watch?v=PxdCKYLUaLY&list=PLQX6zsXm88a2xmYZmv2DPMdrvniJ2S-jd&index=4)
 
 - **Class: CSCI 499 - Senior Project** 
 - **Grade: 94%**
