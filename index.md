@@ -77,26 +77,6 @@ and more!
 
 ---
 
-Ethics Papers
--------------
-
-### [Morality of Memes: The Ethical Enforcement of Consent](/papers/Morality_of_Memes.pdf)
-
--   **Class: CSCI 330 - Computer Architecture**  
--   **Grade: 100%**
-
-### [Unions in Tech: Securing Worker's Rights in Computing](/papers/Unions_in_Tech.pdf)
-
--   **Class: CSCI 325 - Object-Oriented Programming** 
--   **Grade: 100%**
-
-### [Left not Right: The Ethics of Licensing in Computer Science](/papers/Left_not_Right.pdf)
-
--   **Class: CSCI 301 - Survey of Scripting Languages** 
--   **Grade: 100%**
-
----
-
 Presentations
 -------------
 
